@@ -19,6 +19,9 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > git clone https://github.com/havel373/Havelicious
 > cd Havelicious
 > bash install.sh
+> npm i -g cwebp
+> npm i -ytdl
+> npmi && npm i got
 > node index.js
 ```
 
